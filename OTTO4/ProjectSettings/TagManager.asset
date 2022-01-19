@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hangleft
+  - hangright
+  - personleft
+  - personright
+  - person
+  - Sphere
+  - puppet
+  - Sphere1
+  - Pole
+  - FxTemporaire
+  - Building
+  - Bird
+  - levelendcube
+  - 1xplane
+  - levelendplane
+  - levelencube1
+  - levelendplane1
+  - levelendplane2
+  - levelendplane3
+  - levelplane4
+  - levelplane6
+  - levelendplane5
+  - levelendplane4
+  - levelendplane6
+  - person1
+  - person2
+  - person3
+  - person4
+  - person5
+  - person6
+  - cube
+  - theend
+  - levelendplane7
+  - levelendplane8
+  - streetlight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Helicopter
+  - Obstacle
+  - person
+  - sphere
+  - hang
+  - building
+  - buildingobs
+  - bird
+  - levelendplane
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
